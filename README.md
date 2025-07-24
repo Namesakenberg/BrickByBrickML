@@ -91,20 +91,8 @@ Real-time recommendations and model output
 
 🚀 Ready for deployment on Streamlit Cloud or custom server
 
-📁 Folder Structure (Optional)
-bash
-Copy
-Edit
-real_estate_project/
-│
-├── data/                  # Scraped raw & cleaned CSVs
-├── notebooks/             # EDA, preprocessing, modeling notebooks
-├── streamlit_app/         # Streamlit app and model integration
-├── models/                # Pickled model files
-├── assets/                # Wordclouds, plots, etc.
-├── requirements.txt       # Python package requirements
-└── README.md              # Project overview (this file)
-📄 Disclaimer
+
+
 📌 Disclaimer:
 The data used in this project was scraped from publicly available listings on 99acres.com in 2023 for educational purposes only.
 No personal or sensitive information has been collected or shared.
